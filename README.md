@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Darshini
 - 👀 I’m interested in learning new programming languages and develop my coding skills
-- 🌱 I’m currently studing 14th class
 - 💞️ I’m looking to collaborate with a mate who's intrested in programming
 - 📫 you can reach me through darshinikantam@gmail.com
 
